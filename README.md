@@ -1,5 +1,3 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:828/format:webp/1*WVUBQsNgePqQxmrHjaID4g.png)]
-
 <h1 align="center">Hi 👋, I'm Aamir Ashraf</h1>
 <h3 align="center">a Native Android Developer</h3>
 
