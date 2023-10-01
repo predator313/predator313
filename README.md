@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aamir Ashraf</h1>
 <h3 align="center">a Native Android Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=predator313&label=Profile%20views&color=0e75b6&style=flat" alt="predator313" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=predator313" alt="predator313" /></a> </p>
-
 - 🌱 I’m currently learning **📱 Android,KMM**
 
 - 👯 I’m looking to collaborate on **many Open Source Projects 💖**
